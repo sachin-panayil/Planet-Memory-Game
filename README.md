@@ -57,7 +57,7 @@ https://recordit.co/uY9tHWQ3lW
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1u_FIPcJpI3oK7_yVtzPwWo7AfiTddB9p/view?usp=sharing)
 
 
 ## License
