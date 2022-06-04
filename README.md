@@ -6,7 +6,7 @@ Submitted by: **Sachin Panayil**
 
 Time spent: **12** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/blush-dandy-truck
+Link to project (https://blush-dandy-truck.glitch.me/)
 
 ## Required Functionality
 
