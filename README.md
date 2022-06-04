@@ -25,5 +25,6 @@ Link to project: https://planet-memorization-game.glitch.me/
 ## Video Walkthrough (GIF)
 
 https://recordit.co/IGICQ8ALy0
+
 https://recordit.co/uY9tHWQ3lW
 
